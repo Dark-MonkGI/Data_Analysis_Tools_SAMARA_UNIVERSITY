@@ -4,4 +4,4 @@
 Samara University <br/>
 DAT-2022
 
-## 0.[NumPy](https://github.com/Dark-MonkGI/
+## 0.[NumPy](https://github.com/Dark-MonkGI)
