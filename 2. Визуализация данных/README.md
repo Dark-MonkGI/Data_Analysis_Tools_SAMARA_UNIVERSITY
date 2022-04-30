@@ -13,7 +13,7 @@ DAT-2022
 **В работе использовались:**
 1. [Data Set](https://www.kaggle.com/datasets/deepu1109/star-dataset): ***`Star dataset to predict star types`***  <br/>
 2. Data Set из коллекции встроенных датасетов SeaBorn'a о пассажирах: ***`flights`*** <br/>
-3. Spotify Dataset
+3. ***`Spotify Dataset`*** <br/>
 
 
 Цель создания набора данных - доказать, что звезды следуют определенному графику в небесном пространстве,
