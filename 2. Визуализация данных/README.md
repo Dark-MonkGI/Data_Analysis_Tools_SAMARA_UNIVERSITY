@@ -4,7 +4,7 @@
 Samara University <br/>
 DAT-2022
 
-## 1.[Pandas](https://github.com/Dark-MonkGI/Data_Analysis_Tools_SAMARA_UNIVERSITY/blob/main/1.%20Pandas/DAT_6131-010402D_Griaznov_I_LW1.ipynb)
+## 1.[Data visualization](https://github.com/Dark-MonkGI/Data_Analysis_Tools_SAMARA_UNIVERSITY/blob/main/2.%20%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/DAT_6131-010402D_Griaznov_I_LW2.ipynb)
 **Цель данной работы** - отработать навыки взаимодейсвия с еще одним инструментом обработки и анализа данных: программной библиотекой на языке Python -  ***`Pandas`***.
 
 > Pandas — это библиотека Python для обработки и анализа структурированных данных, её название происходит от «panel data» («панельные данные»). Панельными данными называют информацию, полученную в результате исследований и структурированную в виде таблиц. Для работы с такими массивами данных и создан Pandas. 
