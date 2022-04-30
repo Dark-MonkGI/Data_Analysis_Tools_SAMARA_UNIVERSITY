@@ -19,4 +19,7 @@ DAT-2022
  -  Panel — это объект, который имеет структуру трехмерного массива, способного изменять свои размеры.
 
 
-В работе использовалась Data Set: [Star](https://www.kaggle.com/datasets/deepu1109/star-dataset)
+В работе использовался [Data Set](https://www.kaggle.com/datasets/deepu1109/star-dataset): `Star dataset to predict star types`  <br/>
+
+
+
