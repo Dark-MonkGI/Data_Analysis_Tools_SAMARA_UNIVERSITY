@@ -36,3 +36,6 @@ DAT-2022
 
 Набор данных занял 3 недели, чтобы собрать 240 звезд, которые в основном собираются из Интернета.
 Недостающие данные были рассчитаны вручную с использованием приведенных выше уравнений астрофизики. 
+
+
+![logo](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3791628%2Ffe9436bf4e2d23b5b18fb3db1f1fcbcb%2FHRDiagram.png?generation=1597348809674507&alt=media)
