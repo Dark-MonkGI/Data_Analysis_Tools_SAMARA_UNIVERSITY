@@ -3,7 +3,7 @@
 Samara University <br/>
 DAT-2022
 
-## 1.[Linear Regression](https://github.com/Dark-MonkGI/Data_Analysis_Tools_SAMARA_UNIVERSITY/blob/main/4.%20Decision%20Trees/DAT_6131-010402D_Griaznov_I_LW4.ipynb)
+## 1.[Linear Regression](https://github.com/Dark-MonkGI/Data_Analysis_Tools_SAMARA_UNIVERSITY/blob/main/6.%20Linear%20Regression/DAT_6131-010402D_Griaznov_I_LW6.ipynb)
 
 
 **В работе использовался:**
