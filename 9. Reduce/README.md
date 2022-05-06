@@ -28,4 +28,4 @@ DAT-2022
 
 
 
-![logo](https://storage.googleapis.com/kaggle-datasets-images/11167/15520/cbfa0237b28059c7a20ed6ac3daf8b3c/dataset-cover.jpg?t=2018-01-28-09-11-09)
+![logo](https://storage.googleapis.com/kaggle-datasets-images/11167/15520/cbfa0237b28059c7a20ed6ac3daf8b3c/dataset-cover.jpg)
