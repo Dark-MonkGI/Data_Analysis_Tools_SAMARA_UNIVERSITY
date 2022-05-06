@@ -4,7 +4,7 @@
 Samara University <br/>
 DAT-2022
 
-## 1.[Decision Trees](https://github.com/Dark-MonkGI/Data_Analysis_Tools_SAMARA_UNIVERSITY/blob/main/4.%20Decision%20Trees/DAT_6131-010402D_Griaznov_I_LW4.ipynb)
+## 4.[Decision Trees](https://github.com/Dark-MonkGI/Data_Analysis_Tools_SAMARA_UNIVERSITY/blob/main/4.%20Decision%20Trees/DAT_6131-010402D_Griaznov_I_LW4.ipynb)
 **Цель данной работы:** познакомиться с  ***`деревьями решений`*** —  средством поддержки принятия решений, использующееся в машинном обучении, анализе данных и статистике.
 
 > Дерево решений — эффективный инструмент интеллектуального анализа данных и предсказательной аналитики. Он помогает в решении задач по классификации и регрессии.
