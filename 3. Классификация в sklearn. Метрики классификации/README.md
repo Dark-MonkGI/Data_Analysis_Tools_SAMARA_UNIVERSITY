@@ -4,7 +4,7 @@
 Samara University <br/>
 DAT-2022
 
-## 3.[Классификация в sklearn.](https://github.com/Dark-MonkGI/Data_Analysis_Tools_SAMARA_UNIVERSITY/blob/main/)
+## 3.[Классификация в sklearn.](https://github.com/Dark-MonkGI/Data_Analysis_Tools_SAMARA_UNIVERSITY/blob/main/3.%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20sklearn.%20%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/DAT_6131-010402D_Griaznov_I_LW3.ipynb)
 **Цель данной работы:** познакомиться с инструментами ***`Классификация в sklearn`*** — это прямой и простой способ начать применять новые знания, чтобы сделать концепции машинного обучения конкретными, реализуя их с помощью удобной, хорошо документированной и надежной библиотеки.
 
 > Scikit-Learn упрощает процесс создания классификатора и помогает более чётко выделить концепции машинного обучения, реализуя их с помощью понятной, хорошо документированной и надёжной библиотекой.
@@ -15,7 +15,7 @@ DAT-2022
 1. [Data Set](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?select=test.csv): ***`Mobile Price Classification`***  <br/>
 2. [Data Set](https://www.kaggle.com/datasets/nareshbhat/wine-quality-binary-classification): ***`Wine Quality Classification`***  <br/>
 
-## Mobile Price Classification**
+## Mobile Price Classification
 **About Dataset** <br/>
 Context <br/>
 
@@ -28,7 +28,7 @@ Context <br/>
 В этой задаче вам не нужно предсказывать фактическую цену, а нужно предсказать диапазон цен, указывающий, насколько высока цена. 
 
 
-![logo]()
+![logo](https://github.com/Dark-MonkGI/Data_Analysis_Tools_SAMARA_UNIVERSITY/blob/main/3.%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20sklearn.%20%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/dataset-cover1.jpg)
 
 ## Wine Quality Classification
 Data set for Binary Classification<br/>
@@ -54,4 +54,4 @@ Output variable (based on sensory data):
 12 - quality ('good' and 'bad' based on score >5 and <5)
 
 
-![logo]()
+![logo](https://github.com/Dark-MonkGI/Data_Analysis_Tools_SAMARA_UNIVERSITY/blob/main/3.%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20sklearn.%20%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/dataset-cover.jpg)
