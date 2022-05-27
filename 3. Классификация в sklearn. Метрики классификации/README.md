@@ -35,7 +35,7 @@ Data set for Binary Classification<br/>
 <br/>
 **About Dataset**<br/>
 
-This Data set contains the information related red wine , Various factors affecting the quality. This data set was prepossessed and downloaded from the UCI Machine Learning Repository. This data set was simple, cleaned, practice data set for classification modelling. Source of this Dataset: https://archive.ics.uci.edu/ml/datasets/wine+quality
+This Data set contains the information related red wine , Various factors affecting the quality. This data set was prepossessed and downloaded from the UCI Machine Learning Repository. This data set was simple, cleaned, practice data set for classification modelling. Source of this [Data Set](https://archive.ics.uci.edu/ml/datasets/wine+quality) <br/>
 
 Attribute Information:<br/>
 Input variables (based on physicochemical tests):<br/>
